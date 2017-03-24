@@ -1,0 +1,54 @@
+html,
+body,
+div,
+h1,
+h2,
+p,
+ul,
+section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  line-height: 1;
+}
+
+ul {
+  list-style: none;
+}
+
+section {
+  display: block;
+}
+
+body {
+  background: #edeff0;
+  padding: 50px 0 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 150%;
+}
+
+h1,
+h2 {
+  font-size: 1.5em;
+  font-weight: 400;
+  margin-bottom: 8px;
+  color: #384047;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+p {
+  color: #8d9aa5;
+  font-size: 1.4em;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
